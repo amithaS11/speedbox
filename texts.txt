@@ -1,0 +1,5 @@
+can you type this sentence fast enough?
+type this to check your typing speed.
+the quick brown fox jumps over the lazy dog.
+this is a sample text to check your typing speed.
+this is a tkinter gui for type speed testing.
