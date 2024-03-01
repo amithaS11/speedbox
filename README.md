@@ -1,1 +1,1 @@
-# speedbox
+# Typing speed evaluation interface
